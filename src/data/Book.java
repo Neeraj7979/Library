@@ -32,7 +32,7 @@ public class Book {
         this.price=price;
     }
     public int getPrice(){
-        return getPrice();
+        return price;
     }
 
 
